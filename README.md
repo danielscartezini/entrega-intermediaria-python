@@ -64,10 +64,6 @@ Este projeto utiliza a [JSONPlaceholder](https://jsonplaceholder.typicode.com/),
 - **Método:** `GET`
 - **Dados Consumidos:** `title` e `body` de cada postagem.
 
-## 🚀 Link do Projeto
-
-O repositório do projeto pode ser acessado em: [https://github.com/danielscartezini/entrega-intermediaria-python](https://github.com/danielscartezini/entrega-intermediaria-python)
-
 Como esta é uma aplicação CLI, não há uma interface web interativa para deploy direto em plataformas como GitHub Pages. O link acima direciona para o repositório onde todo o código e a documentação estão disponíveis.
 
 ## 🤝 Contribuição
